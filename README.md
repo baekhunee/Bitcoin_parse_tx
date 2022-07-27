@@ -11,6 +11,10 @@ Bitcoin parse tx
 
 git账户名称：baekhunee
 
+# 运行指导
+
+代码可以直接运行
+
 # 代码说明
 ```
 from requests_html import HTMLSession
